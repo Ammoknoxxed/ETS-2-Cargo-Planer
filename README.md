@@ -15,7 +15,7 @@ Der **ETS 2 Cargo Planer** ist ein kostenloses Tool für den Euro Truck Simulato
 
 ## 🚀 Installation
 
-1. **Download:** Lade die neueste Version unter [Releases](https://github.com/DEIN_NUTZERNAME/ETS2-Cargo-Planer/releases) herunter.
+1. **Download:** Lade die neueste Version unter [Releases](https://github.com/Ammoknoxxed/ETS-2-Cargo-Planer/releases/tag/ets2cargoplaner) herunter.
 2. **Setup ausführen:** Starte die Installationsdatei.
    - Wähle "Installation für alle Benutzer" (empfohlen).
    - Bestätige den Zielordner (Standard: `C:\Program Files\ETS 2 Cargo Planer`).
